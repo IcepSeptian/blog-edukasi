@@ -261,7 +261,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#0069A8;}
 
 
 /* Rows */
-.row1{color:#474747; background-color:#FFFFFF;}
+.row1{color:#FFFFFF; background-color:#0069A8;}
 .row2{color:#FFFFFF; background-color:#0069A8;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#BCBCBC; background-color:#1A1A1A;}
