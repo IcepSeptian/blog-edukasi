@@ -97,7 +97,7 @@ File: Layout CSS
 
 /* Footer
 --------------------------------------------------------------------------------------------------------------- */
-#footer{padding:80px 0 50px;}
+#footer{padding:80px 0 50px; position:absolute}
 
 #footer .heading{margin-bottom:50px; font-size:1.2rem;}
 
@@ -113,7 +113,7 @@ File: Layout CSS
 
 #footer input, #footer button{border:1px solid;}
 #footer input{display:block; width:100%; padding:8px;}
-#footer button{padding:8px 18px 10px; text-transform:uppercase; font-weight:700; cursor:pointer;}
+#footer button{padding:8px 18px 10px; text-transform:uppercase; font- weight:700; cursor:pointer;}
 
 
 /* Copyright
